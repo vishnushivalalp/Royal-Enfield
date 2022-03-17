@@ -1,0 +1,84 @@
+.bg-pic{
+    width: 100%;
+    vertical-align: middle;
+}
+
+body{
+    margin: 0;
+}
+
+.text-bg{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    color: #212529;
+    font-weight: bold;
+    text-align: center;
+}
+
+.spantext{
+    color: rgb(218,41,28);
+}
+
+.forms{
+    text-align: center;
+    font-size: 14px;
+    border: 5px;
+    border-color: black;
+    line-height: 18px;
+    font-weight: normal;
+}
+
+.form-table{
+    margin: 0;
+    text-align: center;
+    padding-left: 30%;
+}
+
+.box{
+    height: 45px;
+    width: 300px;
+    line-height: 25px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.lastpara{
+    text-align: left;
+    font-size: 14px;
+    padding-left: 25%;
+    padding-right: 25%;
+    color: black;
+    font-weight: bold;
+    margin-left:50px; 
+    margin-right:50px;
+}
+
+.checkbox{
+    height: 15px;
+    width: 15px;
+}
+
+.footer{
+    text-align: center;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.submit-btn{
+    margin-left: 28%;
+    font-size: 14px;
+    background-color: #fff;
+    color: black;
+    border: 1px black ;
+    text-decoration: none;
+    text-align: center;
+    height: 35px;
+    width: 85px;
+    border-style: outset;
+}
+
+.submit-btn:hover{
+    background-color: black;
+    color: white;
+}
